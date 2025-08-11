@@ -1,0 +1,14 @@
+p {
+    font-family: sans-serif;
+    color: red;
+}
+
+.y.mandatory-scroll-snapping {
+    scroll-snap-type: y mandatory;
+}
+
+div {
+    text-align: center;
+    scroll-snap-align: center;
+    flex: none;
+}

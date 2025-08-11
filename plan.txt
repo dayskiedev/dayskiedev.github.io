@@ -1,0 +1,8 @@
+Pages:
+Main Pages 
+    - info about me
+Project Pages
+    - One for each Project
+SDLVN Page
+    - documentation for .VNS
+
